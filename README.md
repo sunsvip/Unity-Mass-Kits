@@ -8,5 +8,5 @@ Unity万人同屏插件是一款通用的Unity性能优化插件，是实现千�
 官网
 [https://efunstudio.cn/](https://efunstudio.cn/)
 
-性能/功能/红蓝对抗测试Demo Web在线体验
+WebGL在线demo
 [https://assets.efunstudio.cn/](https://efunstudio.cn/#web-demo)
