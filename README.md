@@ -5,8 +5,8 @@ Unity万人同屏插件是一款通用的Unity性能优化插件，是实现千�
 
 万人同屏插件兼容Unity全平台，包括WebGL(2.0)，微信/抖音小游戏等平台同样大幅性能翻倍
 
-官网
+官网:
 [https://efunstudio.cn/](https://efunstudio.cn/)
 
-WebGL在线demo
-[https://assets.efunstudio.cn/](https://efunstudio.cn/#web-demo)
+WebGL在线demo:
+[https://efunstudio.cn/#web-demo](https://efunstudio.cn/#web-demo)
