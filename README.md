@@ -11,6 +11,9 @@ Unity万人同屏插件是一款通用的Unity性能优化插件，是实现千�
 WebGL在线demo:
 [https://efunstudio.cn/#web-demo](https://efunstudio.cn/#web-demo)
 
+视频展示:
+[https://www.bilibili.com/video/BV19tS4BQEwK/](https://www.bilibili.com/video/BV19tS4BQEwK/)
+
 2025.11.26更新:
 1. 两套目标搜索系统(索敌/碰撞检测/射线检测)，三套算法，Jobs多线程实现。
 2. 性能大幅提升。10w人同屏索敌+战斗，100fps(测试环境i7-13700KF + RTX3070), 手机端3w人同屏索敌+战斗，38fps(测试环境K80Pro)
